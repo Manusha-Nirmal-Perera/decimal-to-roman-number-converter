@@ -46,8 +46,9 @@ This project is a utility to convert decimal numbers into Roman numerals. It pro
 ## Screenshot of the page
 
 Below is an example of the Decimal to Binary Converter in action:
-<div style="display: flex; justify-content: space-around;">
-    <img src="./src/images/screenshot1.png" alt="Screenshot 1" style="width: 30%; margin: 5px;">
-    <img src="./src/images/screenshot2.png" alt="Screenshot 2" style="width: 30%; margin: 5px;">
-    <img src="./src/images/screenshot3.png" alt="Screenshot 3" style="width: 30%; margin: 5px;">
+<div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+    <img src="./src/images/screenshot1.png" alt="Screenshot 1" style="width: 30%; height: auto;">
+    <img src="./src/images/screenshot2.png" alt="Screenshot 2" style="width: 30%; height: auto;">
+    <img src="./src/images/screenshot3.png" alt="Screenshot 3" style="width: 30%; height: auto;">
 </div>
+
